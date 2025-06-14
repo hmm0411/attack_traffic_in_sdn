@@ -25,7 +25,7 @@ This repository contains traffic captures of various network attacks simulated i
 
 ---
 
-## 📧 Contact
+## Contact
 
 For questions or access to additional files (raw data, labeled flows), please contact:  
 📨 23520964@gm.uit.edu.vn
